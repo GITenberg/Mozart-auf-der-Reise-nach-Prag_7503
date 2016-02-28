@@ -1,0 +1,32 @@
+_repo: Mozart-auf-der-Reise-nach-Prag_7503
+creator:
+  author:
+    agent_name: Mörike, Eduard
+    aliases:
+    - Moricke, Eduard
+    - Mörike, Eduard Friedrich
+    - Möricke, Eduard
+    - Morike, Eduard Friedrich
+    birthdate: 1804
+    deathdate: 1875
+    gutenberg_agent_id: '2493'
+    url: http://www.gutenberg.org/2009/agents/2493
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Eduard_Mörike
+    - http://de.wikipedia.org/wiki/Eduard_Mörike
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7503'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musical fiction'
+- !lcsh 'Mozart, Wolfgang Amadeus, 1756-1791 -- Fiction'
+- !lcc 'PT'
+title: Mozart auf der Reise nach Prag
+url: http://www.gutenberg.org/ebooks/7503
