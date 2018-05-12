@@ -1,4 +1,8 @@
 _repo: Mozart-auf-der-Reise-nach-Prag_7503
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mörike, Eduard
@@ -15,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Eduard_Mörike
     - http://de.wikipedia.org/wiki/Eduard_Mörike
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7503#Mozart-auf-der-Reise-nach-Prag
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
